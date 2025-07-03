@@ -33,3 +33,5 @@ FROM sales;
 SELECT *
 FROM customers;
 ```
+
+### ***Bài học tiếp theo: Day2 Lọc dữ liệu với WHERE***
