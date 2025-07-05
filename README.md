@@ -44,30 +44,20 @@
 - 📝 Trong mỗi thư mục có:
   - `notes.md`: ghi chú lý thuyết, lỗi sai, rút kinh nghiệm
   - `query.sql`: câu lệnh SQL đã làm
-  - `reflection.md`: cảm nhận sau mỗi bài học (nếu có)
 
 ---
 
 ## 🔥 Trạng thái học tập
 
-- ✅ Đã hoàn thành: Day 01 → Day 05
-- 🚧 Đang học: Day 06 - JOIN
+- ✅ Đã hoàn thành: Day 01 → Day 07
+- 🚧 Đang học: Day 08 - window function
 - 📅 Cập nhật: mỗi ngày hoặc cách ngày
-
----
-
-## 📈 Dự kiến phát triển thêm
-
-- Thực hành với Google BigQuery (sau khi xong căn bản)
-- Kết hợp với Power BI (dùng SQL làm nguồn dữ liệu)
 
 ---
 
 ## 📌 Follow mình
 
 - GitHub: [github.com/LeVanDuy26](https://github.com/LeVanDuy26)
-- Liên hệ học chung hoặc góp ý: bình luận issue nhé 🙌
-
 ---
 > Nếu bạn cũng đang học SQL – hãy fork repo này và bắt đầu hành trình của bạn!
 
